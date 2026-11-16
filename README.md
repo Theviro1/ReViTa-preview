@@ -4,11 +4,11 @@
 
 Vision-guided coarse alignment and geometry-conditioned tactile refinement for reliable robotic insertion, trained without paired visual–tactile observations.
 
-[Demo video](demo.mp4) · [Abstract](#abstract) · [Pipeline](#pipeline) · [Selected results](#selected-results)
+[Demo video](https://github.com/Theviro1/ReViTa-preview/raw/refs/heads/main/demo.mp4) · [Abstract](#abstract) · [Pipeline](#pipeline) · [Selected results](#selected-results)
 
 ## Demo
 
-**[Watch or download the demonstration video (MP4, approximately 14 MB)](demo.mp4)**
+**[Download the demonstration video (MP4, approximately 14 MB)](https://github.com/Theviro1/ReViTa-preview/raw/refs/heads/main/demo.mp4)**
 
 ## Abstract
 
